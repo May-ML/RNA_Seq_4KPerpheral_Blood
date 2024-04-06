@@ -2,7 +2,7 @@ Name: Meiheng Liang
 Programming Language: [Python]
 Date: [Dec 2023]
 Description:
-This script is a demonstration the application of scRNA analysis using seurat pipeline referencing Seurat's [guided clustering tutorial]: (http://satijalab.org/seurat/pbmc3k_tutorial.html) ([Satija et al., 2015](https://doi.org/10.1038/nbt.3192)). 
+This script referrenced scRNA analysis pipeline of Seurat's [guided clustering tutorial] in analyzing cellular composition of perpheral blood cell: (http://satijalab.org/seurat/pbmc3k_tutorial.html) ([Satija et al., 2015](https://doi.org/10.1038/nbt.3192)). 
 The data consist of '3k PBMCs from a Healthy Donor' which available from https://cf.10xgenomics.com/samples/cell-exp/2.1.0/pbmc4k/pbmc4k_raw_gene_bc_matrices.tar.gz
 
 Required files:
